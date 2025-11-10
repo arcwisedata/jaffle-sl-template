@@ -1,0 +1,7 @@
+deployment:
+  basePath: ""
+
+plugins:
+  components: {}
+  datasources: {}
+

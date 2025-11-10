@@ -1,0 +1,5 @@
+name: jaffle_shop
+type: duckdb
+options:
+  filepath: jaffle_shop.duckdb
+
